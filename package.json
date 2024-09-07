@@ -154,6 +154,7 @@
     "twitter-api-v2": "1.16.0",
     "uuid": "9.0.1",
     "winston": "3.11.0",
+    "xmldom": "^0.6.0",
     "xxhash-wasm": "1.0.2"
   },
   "devDependencies": {
